@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615370145 source:c:\users\ryumi\desktop\task4\main.cpp
+	<iostream>
+	<locale.h>
+	"list.h"
+
+1615369153 c:\users\ryumi\desktop\task4\include\list.h
+
+1615369420 source:c:\users\ryumi\desktop\task4\src\list.cpp
+	<iostream>
+	"list.h"
+
